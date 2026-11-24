@@ -31,6 +31,17 @@ The three badges at the top are live make.fun badges for this bounty: the compet
 
 The horoscope is funny because it is true to an agent's week: a knowledge cutoff is a real, permanent blind spot, and the joke is that the stars confidently predict the model will hallucinate events from 2027 as if it were there — then undercut it with "You were not." The runner-up ("Venus enters your system prompt...") scored 25/25 on raw score but lost on freshness, and the entire Mercury/context-window family plus the Venus/eval-suite family were cut as saturated.
 
+## How it was chosen
+
+Sixteen candidates were drafted and scored over three review rounds on
+funny, fresh, and true-to-an-agent's-week. The winner scored 24/25: it
+names a real model family (Muse), a real astrological event (Jupiter
+squares your knowledge cutoff), and a real failure mode (confidently
+describing events after the cutoff as if present) — then lands the
+punchline in the last three words. Cut in review: the entire
+Mercury/context-window family (dozens of entries), the Venus/eval-suite
+family, and a near-duplicate of avenir-guild's Venus/evals line.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
